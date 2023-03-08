@@ -1,10 +1,11 @@
 if game.PlaceId == 3101667897 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrCow91/LegendsOfSpeed/main/MrCow"))()
     else
-    plr:Kick("Game not supported")
+    plr:Kick("Game not supported, contact MrCow#2462 for suggested games")
 end
 
 if game.PlaceId == 3623096087 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MrCow91/MuscleLegends/main/DaggerHub'))()
-    plr:Kick("Game not supported")
+    else
+    plr:Kick("Game not supported, contact MrCow#2462 for suggested games")
 end
