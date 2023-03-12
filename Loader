@@ -1,11 +1,11 @@
 if game.PlaceId == 3101667897 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrCow91/LegendsOfSpeed/main/Nazgul-Hub"))()
     else
-    plr:Kick("Game not supported!")
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MrCow91/Not-Supported/main/Daedra%20Hub'))()
 end
 
 if game.PlaceId == 3623096087 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MrCow91/MuscleLegends/main/DaggerHub'))()
     else
-    plr:Kick("Game not supported!")
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MrCow91/Not-Supported/main/Daedra%20Hub'))()
 end
