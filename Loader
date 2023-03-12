@@ -1,12 +1,8 @@
 local plr = game.Players.LocalPlayer
 if game.PlaceId == 3101667897 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrCow91/LegendsOfSpeed/main/Daedra-Hub"))()
-    else
-    plr:Kick("Game not supported!")
 end
 
 if game.PlaceId == 3623096087 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MrCow91/MuscleLegends/main/DaggerHub'))()
-    else
-    plr:Kick("Game not supported!")
 end
